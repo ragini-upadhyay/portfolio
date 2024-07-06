@@ -1,8 +1,8 @@
 import { Icons } from "@/components/icons";
 
 export const DATA = {
-  name: "Harsh Upadhyay",
-  initials: "HU",
+  name: "Ragini Upadhyay",
+  initials: "RU",
   url: "https://dillion.io",
   location: "Mumbai, IN",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
