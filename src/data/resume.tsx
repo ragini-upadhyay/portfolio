@@ -3,13 +3,13 @@ import { Icons } from "@/components/icons";
 export const DATA = {
   name: "Ragini Upadhyay",
   initials: "RU",
-  url: "https://dillion.io",
+  url: "https://raginiupadhyay.vercel.app",
   location: "Mumbai, IN",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  locationLink: "https://www.google.com/maps/place/mumbai",
   description:
-    "Third-year Computer Science Engineering student building ALG, passionate about coding, and constantly exploring new technologies. Active on GitHub and always eager to learn and share knowledge.",
+    "MCA graduate with two years of experience working at Accenture, passionate about coding, and constantly exploring new technologies. Active on GitHub and always eager to learn and share knowledge.",
   summary:
-    "At the end of my second year in university, I started building and contributing to open-source projects like [Arka Linux GUI ( prev. Arch Linux GUI )](https://github.com/arch-linux-gui). While pursuing my Computer Science Engineering degree at [Thakur College Of Engineering and Technology](/#education), I developed a welcome application for ALG using Golang, React, and TailwindCSS. As a GDSC TCET leader, I organized workshops to enhance technical skills within the community. Passionate about backend development and devops engineering, I'm always eager to learn, share knowledge, and contribute to meaningful tech solutions.",
+    "After graduating with an MCA from V.E.S. Institute of Technology, I have gained two years of professional experience working at Accenture. During my academic journey at Mumbai University, I developed a strong foundation in various programming languages and technologies, including Python, Java, C#, ASP.NET, HTML, and more. I have worked on projects like EduCode, an educational app for learning programming languages, and Warrior, a 2D adventure game. I am passionate about backend development and DevOps engineering, actively exploring new technologies and contributing to open-source projects. As a coding enthusiast, I am always eager to learn, share knowledge, and develop meaningful tech solutions",
   avatarUrl: "/me.jpeg",
   skills: [
     "React",
@@ -29,11 +29,11 @@ export const DATA = {
     "Java",
   ],
   contact: {
-    email: "upadhyayharsh533@gmail.com",
+    email: "raginiu98@gmail.com",
     tel: "+91",
     social: {
       GitHub: {
-        url: "https://github.com/harshau007",
+        url: "https://github.com/ragini-upadhyay",
         icon: Icons.github,
       },
       LinkedIn: {
