@@ -37,7 +37,7 @@ export const DATA = {
         icon: Icons.github,
       },
       LinkedIn: {
-        url: "https://www.linkedin.com/in/upadhyay-harsh/",
+        url: "https://www.linkedin.com/in/ragini-upadhyay/",
         icon: Icons.linkedin,
       },
       X: {
